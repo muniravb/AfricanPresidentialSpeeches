@@ -1,5 +1,3 @@
-Files in the main folder were obtained from Scott Straus.
-
 ### Source URLs
 They were originally located on his website at: https://faculty.polisci.wisc.edu/sstraus/african-presidential-speeches-database/
 
