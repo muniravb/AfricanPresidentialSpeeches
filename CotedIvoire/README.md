@@ -10,9 +10,10 @@
 
 ### Source URLs
 * Speeches were originally located on Scott Straus' website ([link](https://faculty.polisci.wisc.edu/sstraus/african-presidential-speeches-database/)). *This page is no longer working (as of July 15, 2021).*
-
-* Archived version is available [here](https://web.archive.org/web/20200613062147/https://faculty.polisci.wisc.edu/sstraus/african-presidential-speeches-database/).
+     * Archived version is available [here](https://web.archive.org/web/20200613062147/https://faculty.polisci.wisc.edu/sstraus/african-presidential-speeches-database/).
 
 * Cote d'Ivoire speeches were orignially held (with their metadata) [here](https://faculty.polisci.wisc.edu/sstraus/african-presidential-speeches-database/cote-divoire-speeches/). *This page is no longer working (as of July 15, 2021), and there is no archived version available.*
 
-* Repository owner obtained copies of all scans from Dr. Scott Straus in October, 2020.
+* Repository owner obtained copies of all scans from Dr. Scott Straus in October, 2020 ([Straus personal website](https://sites.google.com/view/scott-straus/home)).
+
+
