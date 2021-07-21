@@ -3,7 +3,9 @@
 * DigitizedFiles_CotedIvoire: Selected files from original scans were cropped in order to remove any text outside of the elite speech identified, digitized using AABBY Fine Reader, or manually transcribed when quality and resolution were insufficient for OCR software.
 * TranslatedTextFiles_CotedIvoire: contains 4 subfolders:
  * EnglishOnly_AllData: Text is taken directly from speeches in DigitizedFiles_CotedIvoire. English language originals are identical to the digitized files, French language originals are translated to English using Google Translate. 
- * FrenchwithTranslation: For French language originals in DigitizedFiles_CotedIvoire, English translation is 
+ * FrenchwithTranslation: For French language originals in DigitizedFiles_CotedIvoire, English translation is included alongside the French, numbered line-by-line.
+ * OriginalText_English: Digitized files with English language in the original scan.
+ * OriginalText_French: Digitized files with French language in the original scan.
 
 
 ### Source URLs
