@@ -6,6 +6,7 @@
     * *FrenchwithTranslation:* For French language originals in DigitizedFiles_CotedIvoire, English translation is included alongside the French, numbered line-by-line.
     * *OriginalText_English:* Digitized files with English language in the original scan.
     * *OriginalText_French:* Digitized files with French language in the original scan.
+* **File - Rwanda_metaData_Links.xlsx:** Spreadsheet containing document source, date, speaker information in chronological order. Includes direct links to original and digitized documents with metadata, and additional notes as needed.
 
 
 ### Source URLs
