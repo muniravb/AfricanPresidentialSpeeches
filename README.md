@@ -1,7 +1,7 @@
 # AfricanPresidentialSpeeches
 Database of African presidential speeches collected by [Dr. Scott Straus](https://polisci.wisc.edu/staff/scott-straus/), analyzed and discussed his book: ["Making and Unmaking Nations: War, Leadership, and Genocide in Modern Africa"](https://www.cornellpress.cornell.edu/book/9780801479687/making-and-unmaking-nations/#bookTabs=1).
 
-## Cote d'Ivoire and Rwanda folders contain the following:
+## Cote d'Ivoire and Rwanda folders contain:
 
 *Subfolders*<br>
 * Scans of original speeches.
@@ -12,7 +12,7 @@ Database of African presidential speeches collected by [Dr. Scott Straus](https:
 * Metadata spreadsheet with information about source and speaker for each speech.
 * ReadMe with links to original source url's as well as archived versions when available (original webpage is no longer working).
 
-## Mali, Senegal, and Sudan folders contain the following:**
+## Mali, Senegal, and Sudan folders contain:
 
 *Subfolder*<br> 
 * Scans of original speeches.
