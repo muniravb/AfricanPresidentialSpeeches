@@ -7,6 +7,7 @@
     * *OriginalText_English:* Digitized files with English language in the original scan.
     * *OriginalText_French:* Digitized files with French language in the original scan.
 * File: **CotedIvoire_metaData_Links.xlsx.** Spreadsheet containing document source, date, speaker information in chronological order. Includes direct links to original and digitized documents with metadata, and additional notes as needed.
+* **Note -** original speeches with multiple speeches are split into multiple digitized files as appropriate.
 
 ### Source URLs
 * Speeches were originally located on Scott Straus' website ([link](https://faculty.polisci.wisc.edu/sstraus/african-presidential-speeches-database/)). *This page is no longer working (as of July 15, 2021).*
