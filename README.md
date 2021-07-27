@@ -7,6 +7,7 @@ Database of African presidential speeches collected by [Dr. Scott Straus](https:
 * Scans of original speeches.
 * Text files of cropped and digitized speeches in the original language (58 of 64 speeches digitized for Cote d'Ivoire, 60 of 82 speeches digitized for Rwanda).
 * Translations of text files.
+* **Note -** original speeches with multiple speeches are split into multiple digitized files as appropriate.
 
 *Files*<br>
 * Metadata spreadsheet with information about source and speaker for each speech.
